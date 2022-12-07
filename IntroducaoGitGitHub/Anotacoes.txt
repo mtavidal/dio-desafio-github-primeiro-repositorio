@@ -1,0 +1,3 @@
+Anotações do curso de Introdução ao Git/GitHub
+
+Link para download do Git: https://git-scm.com/downloads
