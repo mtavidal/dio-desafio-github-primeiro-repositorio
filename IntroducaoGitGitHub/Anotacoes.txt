@@ -1,3 +1,8 @@
 Anotações do curso de Introdução ao Git/GitHub
 
 Link para download do Git: https://git-scm.com/downloads
+
+Links para estudo:
+- Manual usuário Git: https://git-scm.com/docs/user-manual  
+- Comandos Git: https://comandosgit.github.io/
+- Boas mensagens de commit: https://www.freecodecamp.org/portuguese/news/como-escrever-boas-mensagens-de-commit-um-guia-pratico-do-git/ 
