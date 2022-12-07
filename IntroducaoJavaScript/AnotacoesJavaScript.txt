@@ -1,0 +1,5 @@
+Anotações do curso Primeiras Páginas Interativas com JavaScript
+
+
+Links para estudo:
+- Aprenda JavaScript: https://www.javascript.com/learn

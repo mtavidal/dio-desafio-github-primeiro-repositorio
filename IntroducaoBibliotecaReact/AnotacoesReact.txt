@@ -1,0 +1,4 @@
+Anotações do curso Começando na Biblioteca React
+
+Links para estudo:
+-Documentação: https://pt-br.reactjs.org/docs/getting-started.html
