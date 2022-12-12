@@ -7,7 +7,6 @@
     5 - Distância em Km da viagem.
     Imprima no console o valor que será gasto para realizar a viagem.
     ps. o preço do combustível, a distância da viagem e o gasto médio do carro não vão mudar no programa.
-
 */
 
 const precoAlcool = 5.79;
